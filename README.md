@@ -8,3 +8,4 @@ email signature image assets
 ![LinkedIn Icon](linkedIn_icon1.png)
 ![Phone Icon](phone_icon1.png)
 ![WhatsApp Business Icon](whatsapp_business_icon1.png)
+![Equals Logo](equals_logo.png)
