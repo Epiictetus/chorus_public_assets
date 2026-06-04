@@ -9,4 +9,4 @@ email signature image assets
 ![Phone Icon](phone_icon1.png)
 ![WhatsApp Business Icon](whatsapp_business_icon1.png)
 ![Equals Logo](equals_logo.png)
-b3685ad1-b3df-4138-8529-d61c2b009ceb.png
+![New Equals Logo] (b3685ad1-b3df-4138-8529-d61c2b009ceb.png)
